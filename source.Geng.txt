@@ -1,0 +1,4 @@
+Inicio.
+    var a, b, c: Ent$
+    a: 10$
+Fin.

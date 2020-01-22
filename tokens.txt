@@ -1,0 +1,15 @@
+Word: Inicio.
+Word: var
+Word: a
+Character: ,
+Word: b
+Character: ,
+Word: c
+Character: :
+Word: Ent
+Character: $
+Word: a
+Character: :
+Number: 10.0
+Character: $
+Word: Fin.
