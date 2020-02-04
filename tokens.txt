@@ -2,14 +2,12 @@ Word: Inicio.
 Word: var
 Word: a
 Character: ,
-Word: b
-Character: ,
-Word: c
-Character: :
+Word: e
+Character: =
 Word: Ent
 Character: $
 Word: a
 Character: :
-Number: 10.0
+Number: 13.0
 Character: $
 Word: Fin.
